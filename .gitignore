@@ -134,11 +134,13 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
+data/*.sql
 
 # models
 models/*.pickle
 models/*.pkl
 
+scripts/*.sql
 # Mac Stuff
 .DS_Store
 
