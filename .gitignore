@@ -140,6 +140,7 @@ data/*.sql
 models/*.pickle
 models/*.pkl
 
+scripts/*.sql
 # Mac Stuff
 .DS_Store
 
